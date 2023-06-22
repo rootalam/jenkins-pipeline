@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP!</p>'; ?> 
+  <p>Hello, from apache</p> 
  </body>
 </html>
